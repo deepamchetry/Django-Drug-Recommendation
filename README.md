@@ -19,9 +19,9 @@ The Drug Recommendation System is a project aimed at developing a comprehensive 
 
 ## Technologies Used
 - **Backend Framework:** Django
-- **Frontend Framework:** React
+- **Frontend Framework:** Bootstrap
 - **Machine Learning Libraries:** scikit-learn, TensorFlow
-- **Database:** PostgreSQL
+- **Database:** SQLLite
 - **Version Control:** Git, GitHub
 
 ## Installation
